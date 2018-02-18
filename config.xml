@@ -5,10 +5,10 @@
         id        = "com.fanzo.moodlemobile"
         versionCode = "20210"
         version   = "3.4.0">
-    <name>Moodle Mobile Fanzo</name>
+    <name>Moodle Mobile Fanzo Def</name>
 
     <description>
-        Moodle Mobile official app Fanzo
+        Moodle Mobile official app Fanzo Def
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
