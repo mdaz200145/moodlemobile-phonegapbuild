@@ -14,7 +14,7 @@
     "customurlscheme": "moodlemobile",
     "siteurl": "http://2017.escuelafanzolato.com.ar",
     "multisitesdisplay": "select",
-    "skipssoconfirmation": "true",
+    "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
 }
